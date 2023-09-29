@@ -377,6 +377,14 @@ a:focus {
   vertical-align: middle;
   min-height: 100vh;
   position: relative;
+
+  
+}
+
+@media (max-width:629px) {
+  img#optionalstuff {
+    display: none;
+  }
 }
 
 /*---------------------------------------
