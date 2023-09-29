@@ -370,9 +370,9 @@ a:focus {
   -----------------------------------------*/
 
 .hero {
-  background-image: url("/arquivos/maxresdefault.jpg");
-  background-size: cover;
-  background-position: top;
+  background-image: url("/arquivos/fundo.svg");
+  background-size: 700px;
+  background-position: right;
   background-repeat: no-repeat;
   vertical-align: middle;
   min-height: 100vh;
