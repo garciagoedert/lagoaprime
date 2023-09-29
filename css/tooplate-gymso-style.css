@@ -896,7 +896,7 @@ button:hover .star-1 {
   left: -30%;
   width: 25px;
   height: auto;
-  filter: drop-shadow(0 0 10px #EFE3D2);
+  filter: drop-shadow(0 0 10px #000000);
   z-index: 2;
 }
 
