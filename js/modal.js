@@ -44,3 +44,6 @@ const initOverlayCard = (cardEl) => {
 
 cards.forEach(initOverlayCard);
 document.body.addEventListener("pointermove", applyOverlayMask);
+
+
+// MODAL GALLERY
