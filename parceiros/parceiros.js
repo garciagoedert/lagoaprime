@@ -21,3 +21,7 @@ $(document).ready(function(){
     }
     goToSlide(currentSlide);
   })
+
+
+//   carrossel
+
