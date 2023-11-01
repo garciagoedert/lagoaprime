@@ -9079,3 +9079,55 @@ a.text-dark:hover {
   }
 }
 /*# sourceMappingURL=bootstrap.min.css.map */
+
+
+@media screen and (max-width: 576px) {
+  .fil0{
+   display:none;
+  }
+ 
+  .visible-xs {
+   display:block;
+  }
+ }
+
+ .star-2{
+  display:none;
+ }
+
+ .visible-xs {
+  display:block;
+ }
+
+
+.star-3{
+  display:none;
+ }
+
+ .visible-xs {
+  display:block;
+ }
+
+ .star-4{
+  display:none;
+ }
+
+ .visible-xs {
+  display:block;
+ }
+
+ .star-5{
+  display:none;
+ }
+
+ .visible-xs {
+  display:block;
+ }
+
+ .star-6{
+  display:none;
+ }
+
+ .visible-xs {
+  display:block;
+ }

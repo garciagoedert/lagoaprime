@@ -369,7 +369,24 @@ a:focus {
      HERO              
   -----------------------------------------*/
 
-.hero {
+  @media screen and (min-width: 720px) {
+    .hero{
+      background-image: url("/arquivos/fundo.svg");
+      background-size: 700px;
+      background-position: right;
+      background-repeat: no-repeat;
+      vertical-align: middle;
+      min-height: 100vh;
+      position: relative;
+    }
+   
+    .hero {
+     display:block;
+    }
+   }
+
+
+/* .hero {
   background-image: url("/arquivos/fundo.svg");
   background-size: 700px;
   background-position: right;
@@ -379,13 +396,13 @@ a:focus {
   position: relative;
 
   
-}
+} */
 
-@media (max-width:629px) {
+/* @media (max-width:629px) {
   img#optionalstuff {
     display: none;
   }
-}
+} */
 
 /*---------------------------------------
      CLASS               
